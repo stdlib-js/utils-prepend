@@ -20,7 +20,7 @@ limitations under the License.
 
 # prepend
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Add elements from one collection to the beginning of another collection.
 
@@ -155,8 +155,8 @@ console.log( arr );
 
 ## See Also
 
--   [`@stdlib/utils/append`][@stdlib/utils/append]: add elements from one collection to the end of another collection.
--   [`@stdlib/utils/unshift`][@stdlib/utils/unshift]: add one or more elements to the beginning of a collection.
+-   <span class="package-name">[`@stdlib/utils/append`][@stdlib/utils/append]</span><span class="delimiter">: </span><span class="description">add elements from one collection to the end of another collection.</span>
+-   <span class="package-name">[`@stdlib/utils/unshift`][@stdlib/utils/unshift]</span><span class="delimiter">: </span><span class="description">add one or more elements to the beginning of a collection.</span>
 
 </section>
 
@@ -207,8 +207,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-prepend/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-prepend?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-prepend.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-prepend/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
