@@ -1,0 +1,49 @@
+{
+  "name": "@stdlib/utils-prepend",
+  "version": "0.0.0",
+  "description": "Add elements from one collection to the beginning of another collection.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-prepend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "unshift",
+    "prepend",
+    "append",
+    "extend",
+    "lengthen",
+    "array",
+    "typed array",
+    "typed-array",
+    "float64array",
+    "float32array",
+    "int32array",
+    "uint32array",
+    "int16array",
+    "uint16array",
+    "int8array",
+    "uint8array",
+    "uint8clampedarray",
+    "array-like",
+    "object",
+    "obj"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
