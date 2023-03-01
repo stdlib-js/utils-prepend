@@ -163,8 +163,8 @@ console.log( arr );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/append`][@stdlib/utils/append]</span><span class="delimiter">: </span><span class="description">add elements from one collection to the end of another collection.</span>
--   <span class="package-name">[`@stdlib/utils/unshift`][@stdlib/utils/unshift]</span><span class="delimiter">: </span><span class="description">add one or more elements to the beginning of a collection.</span>
+-   <span class="package-name">[`@stdlib/utils-append`][@stdlib/utils/append]</span><span class="delimiter">: </span><span class="description">add elements from one collection to the end of another collection.</span>
+-   <span class="package-name">[`@stdlib/utils-unshift`][@stdlib/utils/unshift]</span><span class="delimiter">: </span><span class="description">add one or more elements to the beginning of a collection.</span>
 
 </section>
 
