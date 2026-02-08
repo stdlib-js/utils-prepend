@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@deno/mod.js';
+import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@v0.2.3-deno/mod.js';
 ```
 
 #### prepend( collection1, collection2 )
@@ -124,7 +124,7 @@ bool = ( out.buffer === arr.buffer );
 
 ```javascript
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@deno/mod.js';
+import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@v0.2.3-deno/mod.js';
 
 var arr;
 var i;
