@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@esm/index.mjs';
+import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@v0.2.3-esm/index.mjs';
 ```
 
 #### prepend( collection1, collection2 )
@@ -129,7 +129,7 @@ bool = ( out.buffer === arr.buffer );
 <script type="module">
 
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@esm/index.mjs';
+import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@v0.2.3-esm/index.mjs';
 
 var arr;
 var i;
