@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-prepend/tags). For example,
+
+```javascript
 import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@v0.2.3-deno/mod.js';
 ```
 
@@ -124,7 +129,7 @@ bool = ( out.buffer === arr.buffer );
 
 ```javascript
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@v0.2.3-deno/mod.js';
+import prepend from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-prepend@deno/mod.js';
 
 var arr;
 var i;
